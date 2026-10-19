@@ -1,0 +1,24 @@
+# ---- 编译产物（不要把 exe 传到 GitHub）----
+*.exe
+*.o
+*.obj
+*.out
+a.out
+snake
+step1
+step2
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+
+# ---- 操作系统生成的垃圾文件 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 调试信息 ----
+*.dSYM/
+*.pdb
